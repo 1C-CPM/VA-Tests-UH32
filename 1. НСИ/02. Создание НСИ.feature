@@ -1,9 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32
-
-@NSI
+@UH32_NSI
 
 Функционал: 02. Создание НСИ
 

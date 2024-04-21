@@ -1,11 +1,9 @@
 ﻿#language: ru
 @tree
 
-@UH32
-@ERPUH32
-@Perform
-
-@Budget
+@UH32_Budget
+@ERPUH32_Budget
+@Perform_Budget
 
 Функционал: 01. Проверка создание видов отчетов с полным набором аналитик
 
