@@ -1,6 +1,10 @@
 ﻿#language: ru
 @tree
 
+@UH32_Budget
+@ERPUH32_Budget
+@Perform_Budget
+
 Функционал: 12. Автоматическое заполнение пустых аналитик
 
 	Как Администратор я хочу

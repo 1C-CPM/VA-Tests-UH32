@@ -1,6 +1,10 @@
 ﻿#language: ru
 @tree
 
+@UH32_Budget
+@ERPUH32_Budget
+@Perform_Budget
+
 Функционал: 15. Проверка контролируемых значений при записи
 
 	Как Администратор я хочу

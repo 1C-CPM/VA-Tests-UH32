@@ -1,6 +1,10 @@
 ﻿#language: ru
 @tree
 
+@UH32_Budget
+@ERPUH32_Budget
+@Perform_Budget
+
 Функционал: 13. Рекурсия в расчетах
 
 	Как Администратор я хочу

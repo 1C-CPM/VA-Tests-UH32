@@ -1,6 +1,9 @@
 ﻿#language: ru
 @tree
 
+@UH32_Budget
+@ERPUH32_Budget
+@Perform_Budget
 
 Функционал: 10. Расчет показателей с заполнением по ADO
 

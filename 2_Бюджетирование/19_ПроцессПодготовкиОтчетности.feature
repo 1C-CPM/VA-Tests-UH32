@@ -1,6 +1,10 @@
 ﻿#language: ru
 @tree
 
+@UH32_Budget
+@ERPUH32_Budget
+@Perform_Budget
+
 Функционал: 19. Процесс подготовки отчетности
 
 	Как Администратор я хочу
