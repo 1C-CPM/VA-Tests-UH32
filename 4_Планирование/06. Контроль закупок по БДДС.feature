@@ -1,6 +1,8 @@
 ﻿#language: ru
-
 @tree
+
+@UH32_Planning
+@ERPUH32_Planning
 
 Функционал: 06. Контроль закупок по БДДС
 
