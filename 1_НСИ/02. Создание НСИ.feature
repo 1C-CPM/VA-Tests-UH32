@@ -2,6 +2,7 @@
 @tree
 
 @UH32_NSI
+@Perform_Budget
 
 Функционал: 02. Создание НСИ
 
