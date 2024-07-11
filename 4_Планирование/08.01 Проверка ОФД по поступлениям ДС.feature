@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32_Planning
+@UH32_Planning_OFD_CF
 
 Функционал: 08.01 Проверить создание ОФД по платежам - поступление
 
